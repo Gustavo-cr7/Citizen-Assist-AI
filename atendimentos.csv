@@ -1,0 +1,11 @@
+data;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;tempo
+2026-11-17 08:00:12;pergunta;Como faco o cartao do SUS?;1;s;s;1;8.4
+2026-11-17 08:01:35;pergunta;Onde consigo pegar remedio gratuito na farmacia popular?;2;s;s;1;11.2
+2026-11-17 08:02:48;pergunta;Preciso fazer a prova de vida do INSS no banco?;10;s;s;1;9.7
+2026-11-17 08:20:09;pergunta;Como tirar o cartao de estacionamento para vaga de idoso?;6;s;s;1;10.5
+2026-11-17 08:21:44;categoria;Emitir a Carteira da Pessoa Idosa para viagens interestaduais;5;s;s;1;14.1
+2026-11-17 08:23:15;pergunta;Como conseguir desconto na conta de luz para idoso?;nenhum;n;n;2;19.8
+2026-11-17 09:00:18;pergunta;Quais documentos levar para tomar vacina da gripe?;3;s;s;1;7.9
+2026-11-17 09:01:52;pergunta;Quem tem direito ao beneficio BPC LOAS de um salario minimo?;9;s;s;1;12.3
+2026-11-17 09:03:10;categoria;Solicitar Isencao de IPTU para Aposentados e Pensionistas;12;s;n;1;15.6
+2026-11-17 09:04:37;pergunta;Sofri um golpe no emprestimo consignado onde denunciar?;8;s;s;1;9.2
