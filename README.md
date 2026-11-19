@@ -1,4 +1,4 @@
-# 👵 Citizen Assist AI — Assistente Digital de Orientação à Pessoa Idosa
+#  Citizen Assist AI — Assistente Digital de Orientação à Pessoa Idosa
 
 | Item | Detalhes |
 |---|---|
